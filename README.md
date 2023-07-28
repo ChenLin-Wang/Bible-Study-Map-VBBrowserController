@@ -22,7 +22,7 @@
 
 ### 文档及设计图
 
-见 [文档及设计图](https://github.com/ChenLin-Wang/Bible-Study-Map-VBBrowserController/blob/main/Diagrams/文档)
+见 [Wiki](https://github.com/ChenLin-Wang/Bible-Study-Map-VBBrowserController/wiki)
 
 
 
