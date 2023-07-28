@@ -14,7 +14,7 @@
 - 多节经文并列查看
 - 当滑动到 ScrollView 的最左侧和最右侧时，自动追加经文卡片，除非已达到尽头
 
-此模块依赖经文数据库，否则无法读取到 StrongNumber 的信息
+此模块依赖经文数据库，否则无法读取到 StrongNumber 的单词数据
 
 经文数据库由于过大，无法上传到 github 上，请联系我的 Email 取得(此 Email 是 icloud 邮箱，也可通过 iMessage 发送消息给我)
 
